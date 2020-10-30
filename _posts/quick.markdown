@@ -1,3 +1,10 @@
+---
+
+layout: post
+
+---
+
+
 # Quick Note
 
 Quickly create a rich document.

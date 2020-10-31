@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excel Courses
+title: Free Excel Courses
 date: 2020-10-31 04:19 +0530
 ---
 
